@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=30&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Iure;I'm+from+Brazil;I+student+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=30&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Iure;I'm+from+Brazil;I'm+a+student+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 ![](https://komarev.com/ghpvc/?username=iure11&style=flat-square)
