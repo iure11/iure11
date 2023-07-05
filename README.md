@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=iure11&style=flat-square)
 
-<img src="https://i.ibb.co/nRxC2v2/programming.png" min-width="250px" m ax-width="200px" width="200px" align="right" alt="Coder">
+<img src="https://i.ibb.co/nRxC2v2/programming.png" min-width="250px" max-width="200px" width="200px" align="right" alt="Coder">
 <p align="left">
   <p>Olá, meu nome é Iure e sou um entusiasta da programação. Atualmente estou estudando desenvolvimento de software e já adquiri conhecimentos em diversas tecnologias, incluindo HTML, CSS, JavaScript, React, Java, Spring Boot, MySQL e JUnit 5. </p>
   Estou sempre buscando novos desafios para aprimorar minhas habilidades e conhecimentos. Acredito que a tecnologia pode transformar o mundo e estou comprometido em fazer minha parte. Estou animado para seguir minha carreira no desenvolvimento de software e estou aberto a novas oportunidades para expandir minhas habilidades.</p>
