@@ -6,8 +6,11 @@
 <img src="https://i.ibb.co/nRxC2v2/programming.png" min-width="250px" max-width="200px" width="200px" align="right" alt="Coder">
 <p align="left">
   <p>Olá, meu nome é Iure e sou um entusiasta da programação. Atualmente estou estudando desenvolvimento de software e já adquiri conhecimentos em diversas tecnologias, incluindo HTML, CSS, JavaScript, React, Java, Spring Boot, MySQL e JUnit 5. </p>
-  Estou sempre buscando novos desafios para aprimorar minhas habilidades e conhecimentos. Acredito que a tecnologia pode transformar o mundo e estou comprometido em fazer minha parte. Estou animado para seguir minha carreira no desenvolvimento de software e estou aberto a novas oportunidades para  expandir minhas habilidades. </p>
+  <p>Estagiário em Data Analytics engineering, estou desenvolvendo habilidades sólidas em Core Languages como SQL e Python, especialmente em ETL, Pandas e Numpy, permitindo-me trabalhar com eficiência na manipulação e análise de grandes conjuntos de dados.</p>
+  <p>Além disso, estou explorando componentes de Cloud como IAM, EC2, Glue, Lambda, Data Lake, EMR, Athena, QuickSight, adquirindo experiência valiosa que me capacitará a colaborar em projetos que envolvam infraestrutura em nuvem. ☁️</p>
+  <p>Estou sempre buscando novos desafios para aprimorar minhas habilidades e conhecimentos. Acredito que a tecnologia pode transformar o mundo e estou comprometido em fazer minha parte. Estou animado para seguir minha carreira no desenvolvimento de software e estou aberto a novas oportunidades para expandir minhas habilidades.</p>
 </p>
+
 
 
 
